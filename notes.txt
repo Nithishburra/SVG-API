@@ -1,0 +1,19 @@
+1)IN canvas when ever we zoom the image the clarity is not good.
+
+2)IN svg when ever we zoom the image the clarity will be good.
+
+3)canvas is the light weight element.
+
+4)svg is the high weight element.
+
+5)canvas will be taking less memory .
+
+6)SVG will be taking high memory.
+
+7)IN order to build a gaming application we have to use the SVG.
+
+8) SVG-> scalar vector Graphics.
+
+9) svg it is a XML BASED one.
+
+10) Svg elements are heavy elements.
